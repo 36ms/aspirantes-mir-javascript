@@ -20,7 +20,7 @@ persona.hobbies= ["skate", "climb", "gym", "motorcycle"];
 
 console.log(persona.hobbies);
 
-for (let i = 0; i < persona.hobbies.lengtha; i++) {
+for (let i = 0; i < persona.hobbies.length; i++) {
     console.log(persona.hobbies[i]);
 }
 
